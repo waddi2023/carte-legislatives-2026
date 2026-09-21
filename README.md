@@ -1,6 +1,6 @@
 # Carte des candidats aux législatives 2026
 
-Carte interactive des 92 circonscriptions locales et des 12 circonscriptions régionales du Maroc, avec les têtes de liste des principaux partis, pour le scrutin du 23 septembre 2026.
+Carte interactive des 92 circonscriptions locales et des 12 circonscriptions régionales du Maroc, avec les têtes de liste des principaux partis, pour le scrutin du 23 septembre 2026. Habillage Challenge.ma.
 
 Tout tient dans un seul fichier, `index.html`. Les données, les contours et les logos y sont intégrés. D3 et TopoJSON sont chargés depuis cdnjs, la police depuis Google Fonts.
 
@@ -29,4 +29,4 @@ Liens directs :
 
 ## Visibilité
 
-Le dépôt est privé parce que les données des candidats appartiennent à Médias24. Sur un compte gratuit, GitHub Pages ne fonctionne qu'avec un dépôt public. Ne le rendez public qu'une fois les données autorisées ou remplacées.
+Le dépôt est public. GitHub Pages n'est pas activé.
